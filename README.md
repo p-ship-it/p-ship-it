@@ -38,7 +38,7 @@
 <br />
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohan2309&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=p-ship-it&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=p-ship-it&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=p-ship-it&layout=compact)
 <br />
 
 <img src = "https://github-readme-stats.vercel.app/api?username=p-ship-it&show_icons=true&theme=radical">
