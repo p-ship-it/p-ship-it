@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on Projects and Group Works
 - 🤔 I’m looking for help with Cloud
 - 💬 Ask me about Aliens (I think they do exist 🤔)
-- ⚡ Fun fact: This "🤔" is my favourite emoticon
+- ⚡ Fun fact: UFOs and aliens that have been spotted might be the future selfs of humans 
   -->
 
 ### Connect with me:
