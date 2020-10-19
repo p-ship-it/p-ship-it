@@ -1,7 +1,7 @@
 ### Hello, World!!! 👋
 
 - 🔭 I’m currently working on Flutter Application and MERN stack Development
-- 🌱 I’m currently learning Flutter Animations
+- 🌱 I’m currently learning Typescript
 - 👯 I’m looking to collaborate on Projects and Group Works
 - 🤔 I’m looking for help with Cloud
 - 💬 Ask me about Aliens (I think they do exist 🤔)
