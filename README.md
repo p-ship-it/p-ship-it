@@ -1,4 +1,4 @@
-### Hello, World!!! 👋
+### Hey there!!! 👋
 
 - 🔭 I’m currently working on Flutter Application and MERN stack Development
 - 🌱 I’m currently working on different projects
