@@ -1,7 +1,7 @@
 ### Hey there!!! 👋
 
-- 🔭 I’m currently working on Flutter Application and MERN stack Development
-- 🌱 I’m currently working on different projects
+- 🔭 I’m currently working on Competetive Programming
+- 🌱 I’m currently learning how to code with minimum space and time complexity xD
 - 👯 I’m looking to collaborate on Projects and Group Works
 - 🤔 I’m looking for help with Cloud
 - ⚡ Fun fact: The entire world's population could fit inside Los Angeles.
