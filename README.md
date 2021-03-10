@@ -1,9 +1,9 @@
 ### Hey there!!! 👋
 
 - 🔭 I’m currently working on Competetive Programming
-- 🌱 I’m currently learning how to code with minimum space and time complexity xD
+- 🌱 I’m currently learning how to code with minimum space and time complexity 
 - 👯 I’m looking to collaborate on Projects and Group Works
-- 🤔 I’m looking for help with Cloud
+- 🤔 I’m looking for help with Algorithms
 - ⚡ Fun fact: The entire world's population could fit inside Los Angeles.
   -->
 
