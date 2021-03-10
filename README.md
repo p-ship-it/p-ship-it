@@ -1,4 +1,4 @@
-### Hey there!!! 👋
+### Hey! How you doin? 👋
 
 - 🔭 I’m currently working on Competetive Programming
 - 🌱 I’m currently learning how to code with minimum space and time complexity 
