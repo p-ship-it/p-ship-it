@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Competetive Programming
 - 🌱 I’m currently learning how to code with minimum space and time complexity 
-- 👯 I’m looking to collaborate on Projects and Group Works
+- 👯 I’m looking to work on some  wide scale project
 - 🤔 I’m looking for help with Algorithms
 - ⚡ Fun fact: The entire world's population could fit inside Los Angeles.
   -->
