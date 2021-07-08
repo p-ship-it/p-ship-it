@@ -1,6 +1,6 @@
 ### Hey! How you doin? 👋
 
-- 🔭 I’m currently working on Competetive Programming
+- 🔭 I’m currently working on improving my DSA
 - 🌱 I’m currently learning how to code with minimum space and time complexity 
 - 👯 I’m looking to work on some  wide scale project
 - 🤔 I’m looking for help with Algorithms
