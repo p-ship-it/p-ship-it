@@ -1,4 +1,4 @@
-### Hey! How you doin? 👋
+### Bonjour! 👋
 
 - 🔭 I’m currently working on improving my DSA
 - 🌱 I’m currently learning how to code with minimum space and time complexity 
